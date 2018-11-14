@@ -16,6 +16,12 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
 
 # Ignore uploaded files in development
 /storage/*
